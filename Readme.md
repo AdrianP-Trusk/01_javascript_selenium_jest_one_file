@@ -1,4 +1,4 @@
-[<-- Automation Training](../Readme.md)
+[<-- Automation Training](https://github.com/AdrianP-Trusk/trusk-automation-training)
 
 # Selenium JavaScript sample automated Google test
 
